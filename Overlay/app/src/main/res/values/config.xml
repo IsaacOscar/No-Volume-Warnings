@@ -1,0 +1,4 @@
+<resources>
+    <bool name="config_safe_media_volume_enabled">false</bool>
+    <bool name="config_safe_sound_dosage_enabled">false</bool>
+</resources>
